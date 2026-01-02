@@ -55,6 +55,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 - [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
+- [Vulert](https://vulert.com)- Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code.
 
 ## Documentation
 
